@@ -27,7 +27,6 @@ Welcome to my portfolio repository! 🚀 This repository showcases my journey as
 
 ## 📫 Contact Me
 - **LinkedIn**: [🔗 linkedin.com/in/cary-htan](https://linkedin.com/in/cary-htan-41354a273)
-- **GitHub**: [🐙 github.com/caryhtan](https://github.com/caryhtan)
 - **Email**: [✉️ caryhtan23@gmail.com](mailto:caryhtan23@gmail.com)
 
 ---
