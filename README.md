@@ -1,6 +1,6 @@
 # 🌟 Cary Htan - Portfolio 🌟
 
-Welcome to my portfolio repository! 🚀 This repository showcases my journey as a Computer Science student at Columbia University 🦁, with a focus on **data science**, **machine learning**, and **impactful projects**.
+Welcome to my portfolio repository! 🚀 This repository showcases my journey as a Computer Science student at Columbia University 🦁. I have a strong interest in **data science** and **machine learning**, and I enjoy building projects that explore these topics.
 
 ---
 
