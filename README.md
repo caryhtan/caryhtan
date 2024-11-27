@@ -6,13 +6,15 @@ Welcome to my portfolio repository! 🚀 This repository showcases my journey as
 
 ## 💼 Featured Projects
 
-### [📊 Exploring Airbnb Market Trends](https://github.com/caryhtan/Exploring-Airbnb-Market-Trends)
+### 📊 **Exploring Airbnb Market Trends**
+➡️ **[Click here to view the project on GitHub!](https://github.com/caryhtan/Exploring-Airbnb-Market-Trends)**
 - **Description**: 🏙️ Explored Airbnb data from New York City to analyze trends in pricing, room types, and review patterns.
 - **Technologies**: 🐍 Python, 🐼 Pandas, 🔢 NumPy
 - **Key Highlights**:
   - 🔄 Combined and processed data from CSV, TSV, and Excel files.
   - 💲 Determined average prices and private room availability.
   - 📅 Examined review date ranges to identify activity patterns.
+
 
 ---
 
